@@ -1,0 +1,7 @@
+#image{
+    background: url(toff.jpg) rgba(26, 25, 26, 0.9) fixed;
+	background-blend-mode:overlay;
+	background-position: center;
+	background-repeat: no-repeat;
+ 	background-size: cover;
+}
